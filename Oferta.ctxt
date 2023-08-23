@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Oferta
+comment1.params=ofertante\ monto
+comment1.target=Oferta(Persona,\ long)
+comment2.params=
+comment2.target=long\ getMonto()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+numComments=4

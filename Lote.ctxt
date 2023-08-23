@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lote
+comment1.params=numeroDeLote\ descripcion
+comment1.target=Lote(int,\ java.lang.String)
+comment2.params=oferta
+comment2.target=boolean\ ofertarPara(Oferta)
+comment3.params=
+comment3.target=Oferta\ getOfertaMaxima()
+comment4.params=
+comment4.target=int\ getNumero()
+comment5.params=
+comment5.target=java.lang.String\ getDescripcion()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ mostrarGanador()
+numComments=8
